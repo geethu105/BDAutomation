@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T09:09:16Z" name="Default suite" finished-at="2022-06-15T09:09:23Z" duration-ms="7029">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T09:09:16Z" name="Default test" finished-at="2022-06-15T09:09:23Z" duration-ms="7029">
+      <class name="BDLoginTest.LanchBrowser">
+        <test-method signature="logInTest()[pri:0, instance:BDLoginTest.LanchBrowser@11392934]" started-at="2022-06-15T09:09:16Z" name="logInTest" finished-at="2022-06-15T09:09:23Z" duration-ms="7010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInTest -->
+      </class> <!-- BDLoginTest.LanchBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
