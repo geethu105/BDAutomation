@@ -13,7 +13,7 @@ import org.testng.annotations.Test;
 public class LanchBrowser {
 
 	RemoteWebDriver driver;
-	
+	webdriver driver test;
 	@Test
 public void logInTest() 
 	{
